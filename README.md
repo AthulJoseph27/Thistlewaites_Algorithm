@@ -18,9 +18,9 @@
   ![alt text](assets/1.png)
   ![alt text](assets/2.png)
 
-- Refer https://www.jaapsch.net/puzzles/thistle.htm for more infomation.
-
 - In Phase 4, we try to bring each facelets to their repective faces.
+- 
+- Refer https://www.jaapsch.net/puzzles/thistle.htm for more infomation.
 
 | Phase             | 1     | 2         | 3A      | 3B  | 4           |
 | ----------------- | ----- | --------- | ------- | --- | ----------- |
