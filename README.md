@@ -28,4 +28,3 @@
 | No of States      | 2,048 | 1,082,565 | 4,900   | 144 | 663,552     |
 | Moves Not Allowed | \_    | U,D       | U,D,F,B | 144 | R,L,U,D,F,B |
 
-![alt text](assets/RC.gif)
