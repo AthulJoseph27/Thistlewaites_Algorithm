@@ -26,5 +26,5 @@
 | ----------------- | ----- | --------- | ------- | --- | ----------- |
 | Max Moves         | 7     | 11        | 11      | 14  | 15          |
 | No.of States      | 2,048 | 1,082,565 | 4,900   | 144 | 663,552     |
-| Forbidden Moves | \_    | U,D       | U,D,F,B | 144 | R,L,U,D,F,B |
+| Forbidden Moves | \_    | U,D       | U,D,F,B | U,D,F,B | R,L,U,D,F,B |
 
