@@ -1,6 +1,6 @@
 # Thistlewaite's Algorithm
 
-![alt text](assets/Cube.png)
+![alt text](assets/Cube1.png)
 
 - Algorithm to solve Rubik's Cube.
 
