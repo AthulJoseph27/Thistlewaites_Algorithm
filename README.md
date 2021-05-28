@@ -1,6 +1,7 @@
 # Thistlewaite's Algorithm
 
 ![alt text](assets/Cube2.png)
+**Left - Blue, Front - Red, Right - Green, Back - Orange, Up - Yellow, Down - White**
 
 - Algorithm to solve Rubik's Cube.
 
