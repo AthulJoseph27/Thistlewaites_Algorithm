@@ -1,5 +1,7 @@
 # Thistlewaite's Algorithm
 
+![alt text](assets/Cube.png)
+
 - Algorithm to solve Rubik's Cube.
 
 - It consists of 4 Phases , in my implementation , it can take upto 58 moves to solve the Rubik's Cube.
