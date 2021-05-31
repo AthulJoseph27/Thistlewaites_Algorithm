@@ -3,6 +3,7 @@
 <p>
 <image src="assets/Cube2.png" height="500"/>  
 </p>
+
 **Left - Blue, Front - Red, Right - Green, Back - Orange, Up - Yellow, Down - White**
 
 - Algorithm to solve Rubik's Cube.
