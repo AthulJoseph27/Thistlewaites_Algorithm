@@ -40,7 +40,7 @@
 
 - The Lookup table is already generated and can be found under the folder Lookup Table.
 
-- The code used to generate these lookup tables can be found under the folder named Generators
+- The code used to generate these lookup tables can be found under the folder named Generators.
 
   ## Python
 
