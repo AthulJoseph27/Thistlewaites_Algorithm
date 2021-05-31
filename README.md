@@ -27,9 +27,39 @@
 
 - Refer https://www.jaapsch.net/puzzles/thistle.htm for more infomation.
 
-| Phase             | 1     | 2         | 3A      | 3B  | 4           |
-| ----------------- | ----- | --------- | ------- | --- | ----------- |
-| Max Moves         | 7     | 11        | 11      | 14  | 15          |
-| No.of States      | 2,048 | 1,082,565 | 4,900   | 144 | 663,552     |
+| Phase           | 1     | 2         | 3A      | 3B      | 4           |
+| --------------- | ----- | --------- | ------- | ------- | ----------- |
+| Max Moves       | 7     | 11        | 11      | 14      | 15          |
+| No.of States    | 2,048 | 1,082,565 | 4,900   | 144     | 663,552     |
 | Forbidden Moves | \_    | U,D       | U,D,F,B | U,D,F,B | R,L,U,D,F,B |
 
+<br>
+</br>
+
+# How to Run this
+
+- The Lookup table is already generated and can be found under the folder Lookup Table.
+
+- The code used to generate these lookup tables can be found under the folder named Generators
+
+  ## Python
+
+  - Copy the files Solve.py and RCube.py under the folder Tester and paste it inside the Lookup Table folder.
+
+  - You will need python 3 to run this.
+
+  - To install the required modules, run `pip install requirements.txt`
+
+  - Now run `python3 Solve.py` and input the shuffle. Thats it!
+
+  ## C++
+
+  - Copy the files Solve.cpp under the folder Tester and paste it inside the Lookup Table folder.
+
+  - compile the code with `g++ Solve.cpp`.
+
+  - Now run `./a.out` and input the shuffle. Thats it!
+
+  <p>
+  <image src="assets/Solve.gif"/>
+  </p>
