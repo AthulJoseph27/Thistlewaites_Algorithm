@@ -21,8 +21,8 @@
 
 - In Phase 3B, we try to bring the cube into a state in which all the corners of the same color can be brought back to the same face with only double moves, i.e there can be only even number of coners of the same color in one face and on super superimposing any face and its oppossite face, only corners of the same color can have only 0 or 2 overlaps. You can try this yourself, just take a solved Rubik's Cube and shuffle it with only moves in Group 4. Once this state is acheived, the cube can be solved using just double moves. Some example for invalid states are :
   <p>
-  <image src="assets/1n.png" height="200"/>  
-  <image src="assets/2n.png" height="200"/> 
+  <image src="assets/1n.png" height="150"/>  
+  <image src="assets/2n.png" height="150"/> 
   </p>
 
 - In Phase 4, solve the cube by bringing every corners and edges to its actual place.
