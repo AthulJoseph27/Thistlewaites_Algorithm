@@ -51,7 +51,7 @@
 
   - You will need python 3 to run this.
 
-  - To install the required modules, run `pip install requirements.txt`
+  - To install the required modules, run `pip3 install requirements.txt`
 
   - Now run `python3 Solve.py` and input the shuffle. Thats it!
 
