@@ -63,5 +63,5 @@
   - Now run `./a.out` and input the shuffle. Thats it!
 
   <p>
-  <image src="assets/Solve.gif"/>
+  <image src="assets/Solve.gif" height="500"/>
   </p>
