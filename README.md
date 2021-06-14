@@ -26,7 +26,7 @@
   <image src="assets/2n.png" height="150"/> 
   </p>
 
-- In Phase 4, solve the cube by bringing every corners and edges to its actual place.
+- In Phase 4, solve the cube by bringing every corners and edges to its actual place by using only 180-degree turns.
 
 - Refer https://www.jaapsch.net/puzzles/thistle.htm for more infomation.
 
