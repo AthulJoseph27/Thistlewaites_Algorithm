@@ -16,7 +16,7 @@
 
 - Phase 3 is split into 2 parts - 3A and 3B
 
-- My implementation of Phase 3 is different from the Thistlewaite's algorithm, mainly becuase i didn't understand what he meant in his paper 😅.
+- My implementation of Phase 3 is different from the Thistlewaite's algorithm, mainly becuase i don't understand what he meant in his paper 😅.
 
 - In Phase 3A, place all colors either on its corresponding face or its oppossite face, i.e we bring the cube into a state such that all red and orange facelets are either in front or back face, all blue and green facelets are in left or right face, and all yellow and white facelets are in top or bottom. In other words, consider red and orange facelets as red, blue and green facelets as blue, and yellow and white facelets as yellow and then solve the cube.
 
